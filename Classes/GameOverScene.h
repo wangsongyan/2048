@@ -2,9 +2,9 @@
 // File name: GameOverScene.h
 // 9/8/2014
 //
-// Description£ºÓÎÏ·½áÊø
+// Description:æ¸¸æˆç»“æŸåœºæ™¯
 //
-// Created by ÍõËÉÑã
+// Created by ç‹æ¾é›
 //
 // visit http://weibo.com/wsysyj
 //
