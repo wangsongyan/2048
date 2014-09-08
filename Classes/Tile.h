@@ -2,9 +2,9 @@
 // File name: Tile.h
 // 9/8/2014
 //
-// Description£º¿é
+// Description:å—
 //
-// Created by ÍõËÉÑã
+// Created by ç‹æ¾é›
 //
 // visit http://weibo.com/wsysyj
 //
