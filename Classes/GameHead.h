@@ -2,9 +2,9 @@
 // File name: GameHead.h
 // 9/7/2014
 //
-// Description£º
+// Description:æ¸¸æˆå¤´æ–‡ä»¶
 //
-// Created by ÍõËÉÑã
+// Created by ç‹æ¾é›
 //
 // visit http://weibo.com/wsysyj
 //
