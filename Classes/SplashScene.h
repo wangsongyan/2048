@@ -2,9 +2,9 @@
 // File name: SplashScene.h
 // 9/7/2014
 //
-// Description£º¿ª³¡¶¯»­½çÃæ
+// Description:å¼€åœºåŠ¨ç”»
 //
-// Created by ÍõËÉÑã
+// Created by ç‹æ¾é›
 //
 // visit http://weibo.com/wsysyj
 //
