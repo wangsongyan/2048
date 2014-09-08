@@ -2,9 +2,9 @@
 // File name: GameScene.h
 // 9/8/2014
 //
-// Description£ºÓÎÏ·³¡¾°
+// Description:æ¸¸æˆç•Œé¢
 //
-// Created by ÍõËÉÑã
+// Created by ç‹æ¾é›
 //
 // visit http://weibo.com/wsysyj
 //
